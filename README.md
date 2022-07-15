@@ -1,6 +1,20 @@
+# Project Description
+This is simple weather app were you can search for city and it's weather details. The Api endpoint use are below:
+
+1. [GeoDB Cities] (https://rapidapi.com/wirefreethought/api/geodb-cities/)
+
+2. [Open Weather Api] (https://openweathermap.org/api)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+# Install packages
+
+1. npm install --save react-accessible-accordion
+
+2. npm i react-select-async-paginate --force
 
 ## Available Scripts
 
